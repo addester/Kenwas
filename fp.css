@@ -1,0 +1,85 @@
+#kenwas{
+  font-size: 30px;
+}
+
+.navbar-brand{
+  font-family: 'Tangerine', serif;
+  font-size: 100px;
+}
+
+body{
+  background-image: url('bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+#lownav{
+  font-size: 20px;
+  filter: invert(10%);
+}
+.car{
+  position: absolute;
+  /* left: 20vw; */
+  top: 30vh;
+}
+
+.colll{
+  position: absolute;
+  top: 125vh;
+  width: 99.1vw;
+  bottom: 500vh;
+}
+.colls{
+  color: whitesmoke;
+}
+
+.jumbotron {
+  color: white;
+  background-image: url("https://wallpaperaccess.com/full/508751.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 99vw;
+}
+.pho{
+  position: absolute;
+  top: 200vh;
+  /* left: 30vw; */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.ro{
+  position: absolute;
+  top: 290vh;
+  left: 43vw;
+}
+.gly{
+  position: absolute;
+  top: 500vh;
+  left: 20vw;
+}
+.tabbed{
+  position: absolute;
+  top: 370vh;
+  width: 100%;
+}
+.mapp{
+  position: absolute;
+  top: 450vh;
+  left: 32vw;
+}
